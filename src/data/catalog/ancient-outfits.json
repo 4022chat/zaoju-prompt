@@ -1,0 +1,533 @@
+[
+  {
+    "id": "ancient-female-outfit-2",
+    "title": "仙气飘逸仙子",
+    "prompt": "AI漫剧古风女装，仙气飘逸仙子服饰，主色配色：天青/冰蓝/月白，服饰关键词：轻盈灵动、薄纱广袖、银饰点缀，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-2.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-3",
+    "title": "华贵典雅贵女",
+    "prompt": "AI漫剧古风女装，华贵典雅贵女服饰，主色配色：朱红/琥铂金/象牙白，服饰关键词：凤纹刺绣、金玉配饰、层叠裙摆，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-3.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-4",
+    "title": "素雅清冷鬼医",
+    "prompt": "AI漫剧古风女装，素雅清冷鬼医服饰，主色配色：豆绿/米白/浅黄，服饰关键词：素雅简约、墨色绣纹、清冷弧高，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-4.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-5",
+    "title": "江湖红衣女剑客",
+    "prompt": "AI漫剧古风女装，江湖红衣女剑客服饰，主色配色：正红/玄黑/银白，服饰关键词：红色劲装、高马尾、灰色披风、长剑护腕、长靴斗笠，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-5.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-6",
+    "title": "宫廷贵妃礼服",
+    "prompt": "AI漫剧古风女装，宫廷贵妃礼服，主色配色：深红/鎏金/珀，服饰关键词：金线刺绣、高盘发髻、金步摇、妆面精致，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-6.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-7",
+    "title": "月下白衣琴师",
+    "prompt": "AI漫剧古风女装，月下白衣琴师服饰，主色配色：月白/浅银/淡青，服饰关键词：交领长衫、轻纱披帛、琴纹暗绣、玉质腰佩，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-7.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-8",
+    "title": "紫衣宗门圣女",
+    "prompt": "AI漫剧古风女装，紫衣宗门圣女服饰，主色配色：绛紫/银白/墨黑，服饰关键词：宽袖仙袍、宗门云纹、银色腰封、垂珠发饰，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-8.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-9",
+    "title": "青衣药谷少女",
+    "prompt": "AI漫剧古风女装，青衣药谷少女服饰，主色配色：青碧/竹绿/月白，服饰关键词：短襦长裙、草药刺绣、藤编药篓、细银铃铛，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-9.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-10",
+    "title": "雪域祭司长袍",
+    "prompt": "AI漫剧古风女装，雪域祭司长袍，主色配色：雪白/冰蓝/银灰，服饰关键词：毛绒领边、冰晶纹绣、层叠长袍、银铃头冠，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-10.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-11",
+    "title": "边塞女将戎装",
+    "prompt": "AI漫剧古风女装，边塞女将戎装，主色配色：玄黑/赤红/冷银，服饰关键词：轻甲护肩、束袖劲装、红色披风、皮革护腕、长靴腰刀，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-11.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-12",
+    "title": "桃夭世家千金",
+    "prompt": "AI漫剧古风女装，桃夭世家千金服饰，主色配色：桃粉/象牙白/浅金，服饰关键词：绫罗襦裙、海棠刺绣、珍珠禁步、花瓣披帛，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-12.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-13",
+    "title": "玄门符师道袍",
+    "prompt": "AI漫剧古风女装，玄门符师道袍，主色配色：靛青/米白/朱砂红，服饰关键词：窄袖道袍、八卦暗纹、朱砂腰带、符纸挂饰、木簪发髻，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-13.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-14",
+    "title": "幽冥彼岸花妖",
+    "prompt": "AI漫剧古风女装，幽冥彼岸花妖服饰，主色配色：墨黑/血红/暗金，服饰关键词：彼岸花纹薄纱、长袖拖尾、黑金束腰、流苏额饰，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-14.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-15",
+    "title": "西域金铃舞娘",
+    "prompt": "AI漫剧古风女装，西域金铃舞娘服饰，主色配色：孔雀蓝/鎏金/暖橘，服饰关键词：露腰舞裙、金铃腰链、彩珠头纱、宽袖飘带，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-15.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-16",
+    "title": "书院才女儒裙",
+    "prompt": "AI漫剧古风女装，书院才女儒裙，主色配色：藕荷/浅褐/米白，服饰关键词：对襟短衫、百褶长裙、竹叶绣纹、素色发带、书卷腰佩，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-16.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-17",
+    "title": "鲛人碧波纱衣",
+    "prompt": "AI漫剧古风女装，鲛人碧波纱衣，主色配色：海蓝/青绿/珠白，服饰关键词：鳞片珠绣、半透明披纱、水波纹裙摆、贝壳额饰，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-17.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-18",
+    "title": "夜行刺客劲装",
+    "prompt": "AI漫剧古风女装，夜行刺客劲装，主色配色：墨紫/玄黑/冷银，服饰关键词：修身短打、半面轻纱、暗纹皮甲、暗器绑带、软底长靴，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-18.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-19",
+    "title": "凤羽公主朝服",
+    "prompt": "AI漫剧古风女装，凤羽公主朝服，主色配色：金红/朱砂/象牙白，服饰关键词：凤凰刺绣、宽大披帛、玉佩禁步、金丝凤冠、层叠礼裙，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-19.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-20",
+    "title": "流萤山野灵女",
+    "prompt": "AI漫剧古风女装，流萤山野灵女服饰，主色配色：草绿/浅黄/木棕，服饰关键词：不规则短披肩、花草刺绣、藤蔓腰饰、轻纱裙摆、萤石发簪，3D国漫渲染风格，纯白背景，无场景元素，8K超高清，虚幻引擎5质感，PBR物理材质，精细发丝渲染，东方古典审美。",
+    "description": "",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-20.png",
+    "referenceImageUrls": [],
+    "tags": "古代,女性,服饰"
+  },
+  {
+    "id": "ancient-female-outfit-21",
+    "title": "月白鲛纱潮汐仙衣",
+    "prompt": "清冷东方幻想女装，月白、冰蓝与珍珠银配色，齐胸襦裙搭配水波形长披帛，外层轻透鲛纱与细闪欧根纱，内层珍珠白真丝，裙摆形成柔软潮汐褶皱。领口和腰际点缀小粒珍珠、贝母薄片，水滴晶石与银丝链，裙面绣有月相，水纹和细小鱼鳞纹，披帛自然垂落，半透明层次清晰，冷月柔光，灵动仙气，高级服装摄影，超高清面料与饰品细节",
+    "description": "清冷东方幻想女装，月白、冰蓝与珍珠银配色，齐胸襦裙搭配水波形长披帛，外层轻透鲛纱与细闪欧根纱，内层珍珠白真丝，裙摆形成柔软潮汐褶皱。领口和腰际点缀小粒珍珠、贝母薄片，水滴晶石与银丝链，裙面绣有月相，水纹和细小鱼鳞纹，披帛自然垂落，半透明层次清晰，适合水系、月神仙侠角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-21.png",
+    "referenceImageUrls": [],
+    "tags": "仙侠,水系,月神,齐胸襦裙,鲛纱,蓝白色,仙气古风"
+  },
+  {
+    "id": "ancient-female-outfit-22",
+    "title": "乌金竹影侠女礼服",
+    "prompt": "暗黑新中式侠女装，乌黑、墨绿与旧金配色，窄袖交领短袍外叠不对称长褙子，下接利落细褶马面长裙，右肩配置结构化小披肩，硬挺腰封勾勒修长比例。竹叶、风痕与山石纹以乌金线沿袖口和裙片纵向生长，黑曜石腰扣连接墨玉坠、细金链和短流苏，袖封加入哑光皮革与金属压纹。面料使用香云纱、暗花缎、丝绒与挺括提花锦，冷绿轮廓光，黑色层次清晰，利落冷艳，兼具侠气与礼服华贵感",
+    "description": "暗黑新中式侠女装，乌黑、墨绿与旧金配色，交领窄袖设计，竹叶乌金刺绣，硬质腰封配饰，侠气飒爽，适合江湖女侠、暗系权谋角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-22.png",
+    "referenceImageUrls": [],
+    "tags": "侠女,新中式,暗黑古风,交领汉服,黑金,竹林主题,马面长裙"
+  },
+  {
+    "id": "ancient-female-outfit-23",
+    "title": "流萤星雨青萝仙裙",
+    "prompt": "森系古风仙裙，青萝绿、萤光金与湖蓝清透晕染，轻盈明亮。藤蔓花肩、流萤晶珠、星雨广袖与森林水波裙摆层层舒展，多层渐变透明薄纱，点缀细碎星光与金色小花，飘逸长飘带，柔光氛围感，精致服装概念设计，超高清布料纹理",
+    "description": "森系仙侠长裙，青绿色渐变薄纱，藤蔓花卉肩饰，布满流萤星光元素，适合森灵、草木精灵、夏夜仙侠角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-23.png",
+    "referenceImageUrls": [],
+    "tags": "森系仙侠,精灵,绿蓝色,薄纱仙裙,流萤星光,花仙"
+  },
+  {
+    "id": "ancient-female-outfit-24",
+    "title": "朝露蔷薇烟云仙裳",
+    "prompt": "蔷薇花境古风仙裙，蔷薇粉、晨露白与薄荷绿清透晕染，轻盈明亮。蔷薇花肩、晨露珠链、烟云披帛与花瓣层叠裙摆层层舒展，立体蔷薇花朵装饰，大量珍珠水晶挂坠，多层波浪薄纱，飘逸丝带柔和光影，精细刺绣服饰设计",
+    "description": "春日花仙古风礼服，粉绿渐变薄纱，立体蔷薇花饰，珠链流苏，柔美温婉，适合花神、春日仙子角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-24.png",
+    "referenceImageUrls": [],
+    "tags": "花仙,蔷薇,粉绿色,古风礼服,薄纱大袖,春夏题材"
+  },
+  {
+    "id": "ancient-female-outfit-25",
+    "title": "莲台梵月琉璃羽衣",
+    "prompt": "莲华仙境古风礼服，莲白、琉璃青与淡金清透晕染，轻盈明亮。千瓣莲肩、梵月金纹、透明羽纱大袖与琉璃坠饰层层舒展，通透薄纱长裙，莲花纹样刺绣，水晶流苏挂饰，金色细线纹样，高级服装渲染",
+    "description": "东方禅意仙侠礼服，青白琉璃配色，莲花主题肩饰，通透羽纱，神圣清雅，适合佛界仙子、莲神角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-25.png",
+    "referenceImageUrls": [],
+    "tags": "禅意古风,莲神,白青色,琉璃,羽纱大袖,神圣仙气"
+  },
+  {
+    "id": "ancient-female-outfit-26",
+    "title": "兰因蝶梦月影纱裙",
+    "prompt": "兰花仙子古风仙裙，兰紫、月白与雾青清透晕染，轻盈明亮。兰花云肩、蝶翼薄纱、月影刺绣与轻盈长飞带层层舒展，渐变紫蓝透纱，兰花刺绣，水晶珠链，飘逸大袖裙摆，梦幻柔光",
+    "description": "梦幻紫色古风仙裙，兰花与蝴蝶元素，渐变紫青薄纱，空灵柔美，适合兰花仙、月宫仙子角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-26.png",
+    "referenceImageUrls": [],
+    "tags": "兰花仙子,蝶元素,紫蓝色,月影,梦幻古风,薄纱长裙"
+  },
+  {
+    "id": "ancient-female-outfit-27",
+    "title": "天河织女星梭羽裙",
+    "prompt": "织女星境古风礼服，星河蓝、云母白与霞紫清透晕染，轻盈明亮。织云纹样、星梭腰饰、银河薄纱和长幅流星披帛层层舒展，裙身布满星点微光，星云暗纹，蓝紫渐变轻纱，大量飘带水晶坠饰",
+    "description": "星空主题仙侠长裙，蓝紫银河渐变，星辰云纹，浪漫梦幻，适合织女、星神、天界仙女角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-27.png",
+    "referenceImageUrls": [],
+    "tags": "星空古风,星神,银河,蓝紫渐变,七夕题材,天界礼服"
+  },
+  {
+    "id": "ancient-female-outfit-28",
+    "title": "九天玄女霞光霓裳",
+    "prompt": "九天仙境古风大女主礼服，晨曦金、霞粉与天青清透晕染，轻盈明亮。日月云肩、霓霞披帛、祥云十二幅裙与流光玉佩层层舒展，粉蓝渐变霞光薄纱，凤凰羽翼肩饰，金线祥云刺绣，珠玉流苏，恢弘大气",
+    "description": "上古神女华贵礼服，粉金霞色渐变，日月凤凰元素，气场强大，适合九天玄女、上古女帝、仙界尊主",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-28.png",
+    "referenceImageUrls": [],
+    "tags": "上古神女,大女主,霞光配色,凤凰云肩,华贵仙侠,女帝礼服"
+  },
+  {
+    "id": "ancient-female-outfit-29",
+    "title": "琥珀敦煌飞天礼服",
+    "prompt": "敦煌飞天美学古风女装，蜜糖琥珀、赭石、沙金与孔雀青配色，高腰襦裙叠穿精致半臂，环绕式长披帛形成流畅弧线，腰部以多层织带收束。胸襦、袖缘与裙身重构藻井几何、忍冬纹和莲花花纹，使用金线盘绣、彩色琉璃珠、绿松石色米珠、细铜铃与鎏金花片；面料采用真丝绢、织金锦、矿物色提花纱和薄透绡纱。琥珀暖光，色彩浓郁而高级，古老神圣，超精细东方礼服概念设计",
+    "description": "敦煌飞天风格古风礼服，琥珀暖色调，藻井莲花传统纹样，织金锦面料，异域东方美感，适合飞天神女、西域公主",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-29.png",
+    "referenceImageUrls": [],
+    "tags": "敦煌飞天,西域古风,琥珀色系,织金锦,传统纹样,半臂襦裙"
+  },
+  {
+    "id": "ancient-female-outfit-30",
+    "title": "云梦鲛绡海棠仙衣",
+    "prompt": "云海仙境古风仙裙，海棠粉、云水蓝与珠光白清透晕染，轻盈明亮。海棠花枝、鲛绡大袖、云浪裙摆与珍珠飞链层层舒展，粉蓝渐变透明鲛纱，垂挂海棠花枝刺绣，珍珠链条，波浪形层叠裙摆，飘逸长丝带柔光",
+    "description": "云海花神古风仙衣，粉蓝海棠配色，通透鲛绡面料，清新梦幻，适合海棠花仙、海中鲛人仙子",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-30.png",
+    "referenceImageUrls": [],
+    "tags": "鲛人,海棠花神,粉蓝渐变,鲛绡,云海题材,飘逸仙裙"
+  },
+  {
+    "id": "ancient-female-outfit-31",
+    "title": "紫藤云锦流光礼服",
+    "prompt": "浪漫华贵古风女装，紫藤、烟紫与香槟金渐变配色，魏晋风大袖上襦搭配高腰曳地长裙，外罩轻薄云肩和不规则长披帛。紫藤花串从肩部斜向腰间延展，枝叶采用香槟金丝刺绣，花瓣以真丝立体绣、紫水晶珠和细米珠塑造；裙身铺设云锦暗纹，袖层半透明，腰封镶古金镂空花片与玉石坠饰。紫金柔光，布料飘逸垂坠，珠绣璀璨，优雅神秘，电影级精致细节",
+    "description": "魏晋风紫色华贵礼服，立体紫藤花装饰，云锦暗纹，紫金柔和光影，适合世家贵女、紫藤花灵、宫廷妃子",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-31.png",
+    "referenceImageUrls": [],
+    "tags": "魏晋古风,紫藤花,紫色礼服,云锦刺绣,贵女服饰,优雅神秘"
+  },
+  {
+    "id": "ancient-female-outfit-32",
+    "title": "桃夭烟霞花神礼服",
+    "prompt": "春日花神古风女装，藕粉、桃花粉、杏白与香槟金渐变配色，齐胸襦裙外罩弧形短云肩，宽袖以三层轻纱塑造柔软花瓣轮廓，长披帛从臂弯自然垂落至裙摆。桃花与含苞花枝采用立体真丝绣、薄纱热塑花瓣、粉晶珠和细小珍珠塑造，裙身以烟霞渐变染色并铺设金线流云暗纹，腰间镶白玉花扣与细珠流苏。面料使用真丝欧根纱，提花罗、珠光缎与雾面绡纱，柔粉金光，轻盈浪漫，甜美高级，超精细花卉礼服设计",
+    "description": "春日桃花花神礼服，温柔粉金色，齐胸襦裙搭配云肩，立体桃花刺绣，甜美浪漫，适合桃花仙、凡间贵女、春日写真",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-32.png",
+    "referenceImageUrls": [],
+    "tags": "桃花花神,齐胸襦裙,粉金色,云肩汉服,春日题材,甜美古风"
+  },
+  {
+    "id": "ancient-female-outfit-33",
+    "title": "玄青鹤羽云山礼服",
+    "prompt": "东方幻想古风礼服，玄青、黛黑与冷银配色，直领对襟长衫叠穿细褶长裙，宽袖形成舒展鹤翼轮廓。肩颈、袖缘和背部以银线绣制仙鹤翎羽，裙身铺陈远山云海暗纹，使用香云纱、暗花罗、真丝绉与银丝提花面料；墨玉腰扣连接细银链坠饰，衣缘冷银滚边，层次轻盈，布料垂坠真实，清冷高贵，电影服装概念设计，超精细刺绣与高级光泽",
+    "description": "清冷水墨古风礼服，玄青底色，仙鹤云山银绣，水墨国风，适合道门仙子、隐士、山水神女",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-33.png",
+    "referenceImageUrls": [],
+    "tags": "水墨古风,仙鹤元素,道门服饰,冷色系,对襟长衫,清冷高贵"
+  },
+  {
+    "id": "ancient-female-outfit-34",
+    "title": "海棠金麟宫廷礼服",
+    "prompt": "盛唐风华丽宫廷女装，胭脂红与暖金配色，交领广袖、收腰高腰襦裙、层叠曳地裙摆，海棠花与抽象金麟纹由肩部向下蔓延。采用织金锦缎、半透明绡纱、金线盘绣、珍珠钉珠和细密珠绣，袖缘垂落流苏，腰封镶嵌玉石与鎏金花片，衣料自然下垂，纹样疏密有致，正面完整服装展示，华贵典雅，电影级光影，超高清细节",
+    "description": "盛唐宫廷皇后贵妃礼服，红金配色，海棠麒麟织金纹样，恢弘富丽，适合皇室妃嫔、王族公主、朝堂女官",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-34.png",
+    "referenceImageUrls": [],
+    "tags": "盛唐宫廷,红金色,交领广袖,织金汉服,贵妃礼服,华贵国风"
+  },
+  {
+    "id": "ancient-female-outfit-35",
+    "title": "霜华雪狐冬日礼服",
+    "prompt": "清冷冬季古风女装，霜白、银灰与极淡冰蓝配色，立领修长袄叠穿多层细褶长裙，外披宽大兜帽式曳地披风，肩缘围绕柔软白色仿狐绒。披风门襟、袖口和裙摆以银线绣制雪花、冰枝与六瓣梅纹，领扣镶月光石并连接细银链，腰封点缀小粒珍珠和白玉坠饰。使用重磅提花锦、哑光丝绒、真丝内衬与半透明冰纹纱，银白轮廓光，绒毛细腻，衣料厚重垂坠，清冷凛冽，电影级冬日华服",
+    "description": "冬日风雪古风礼服，银白冰蓝色，狐毛镶边披风，寒梅雪花刺绣，适合雪国公主、雪山仙子、冬日仙侠角色",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-35.png",
+    "referenceImageUrls": [],
+    "tags": "冬日古风,雪国,狐裘披风,冰系仙子,银白汉服,寒梅纹样"
+  },
+  {
+    "id": "ancient-female-outfit-36",
+    "title": "玄蝶流银百褶祭月裙",
+    "prompt": "单独古风女装礼服，幻想民族风，以苗族银饰美学为灵感的幻想祭月礼服，主色为玄黑与靛蓝，点缀品红与氧化银。上身交领紧身短袄，肩部银蝶展翼造型铠饰，披挂层叠银链与月轮坠饰。袖子透明靛蓝蝶翼纱，绣蝴蝶与蕨类漩涡纹，袖口密缀银铃与月牙片。腰封多层银牌与蝴蝶纹扣饰，垂落银链、铃铛与流苏，右侧不对称长坠。下裙多层百褶，黑与靛蓝层叠，镶嵌蝶纹、河流几何与蕨叶纹样，裙摆缀密铃与月片。织锦、提花与轻纱叠搭，银饰氧化做旧，精致刺绣金属配饰，电影级质感，高清服饰道具摄影，柔和光影",
+    "description": "以苗族银饰美学为灵感的幻想祭月礼服，主色为玄黑与靛蓝，点缀品红与氧化银。上身交领紧身短袄，肩部以银蝶展翼造型铠饰勾勒轮廓，披挂层叠银链与月轮坠饰。袖子采用透明靛蓝蝶翼纱，绣蝶群与蕨类漩涡纹，袖口密缀银铃与月牙片。腰封为多层银牌与蝴蝶纹扣饰，垂落银链、铃铛与流苏，右侧延伸不对称长坠。下裙为多层百褶结构，黑与靛蓝层叠，镶嵌蝶纹、河流几何与蕨叶纹样，裙摆缀密铃与月片。面料为织锦、提花与轻纱叠搭，银饰氧化做旧。整体神秘、庄重、灵动，充满祭月仪典与自然灵韵。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-36.png",
+    "referenceImageUrls": [],
+    "tags": "幻想民族风,苗疆,祭月礼服,古风长裙,银饰,蝴蝶纹样"
+  },
+  {
+    "id": "ancient-female-outfit-37",
+    "title": "墨雨惊鸿轻甲侠女劲装",
+    "prompt": "单独古风武侠劲装，江湖武侠风女装，墨黑、烟灰与暗红为主色，点缀旧银。交领窄袖贴身剪裁，单侧皮甲护肩与窄袖护腕。内搭轻甲劲衣，外罩可拆卸风衣斗篷，衣身暗纹竹影雨线。高腰多重腰封，银质扣件配红绳流苏，挂环可挂载兵器配饰。下裳斜片开衩叠穿劲裤，衣摆绣竹影、雨痕与剑痕纹样。斜纹锦与仿麂皮拼接面料，哑光质感，服饰道具特写，细腻材质光影，写实原画",
+    "description": "以墨黑、烟灰与暗红为主色，点缀旧银，冷峻中透出侠骨柔情。交领窄袖贴身剪裁，单侧皮甲护肩与窄袖护腕，利落利行动。内搭轻甲片与劲装里衣，外罩可拆卸风衣斗篷，竹影与雨线暗纹随风流动。高腰多重腰封，银质扣件配红绳与流苏，挂环可系兵器配饰。下裳斜片开衩叠穿劲裤，衣摆绣竹影、雨痕与剑痕纹样，动静皆飒。面料为斜纹锦与细腻仿麂皮拼接，哑光与微光相映，质感坚韧而高级，江湖气息内敛凌厉。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-37.png",
+    "referenceImageUrls": [],
+    "tags": "江湖武侠,侠女劲装,古风铠甲,黑色汉服,竹纹"
+  },
+  {
+    "id": "ancient-female-outfit-38",
+    "title": "桂月星河环佩广袖长裙",
+    "prompt": "单独月宫古风仙裙，配色珠白、薰衣草紫与夜空蓝，点缀玫瑰金星辉。弯月交领，肩部透明环轨肩饰，行星轨道造型，缀星珠流苏。螺旋叠层广袖，外层轻纱刺绣月相与星轨，内层渐变紫纱碎星点缀。高腰水晶月盘腰带，垂坠玫瑰金星链、月牙坠，环佩流苏。长裙自夜空蓝渐变紫白，刺绣星图、桂花、流星轨迹，三重曳地长拖尾。珠光提花轻纱，布满星尘亮片，仙气清冷，华丽古风服饰，商品摄影质感",
+    "description": "配色以珠白、薰衣草紫与夜空蓝为主，点缀玫瑰金星辉，清冷温柔，宛若月华倾泻。领型为弯月交领，肩部设透明环轨肩饰，似行星轨道环绕，缀以星珠与流苏。衣袖为螺旋叠层广袖，外层轻纱绣月相与星轨，随动如烟，内层渐变紫纱点缀碎星。高腰束带镶嵌水晶月盘，垂坠玫瑰金星链与月牙坠，环佩叮咚，璀璨灵动。裙摆自夜空蓝渐变至紫白，绣星图、桂花与流星轨迹，三重曳地长拖如彗尾划天。面料珠光提花与透明绣纱叠加，星尘亮片点缀，轻盈飘逸，仙气清冷，梦幻高贵。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-38.png",
+    "referenceImageUrls": [],
+    "tags": "月宫仙裙,仙侠古风,星空月亮,广袖汉服,拖尾礼服"
+  },
+  {
+    "id": "ancient-female-outfit-39",
+    "title": "孔雀曜夜流光翎羽礼服",
+    "prompt": "单独国风华贵礼服，主色孔雀绿、宝石蓝、紫罗兰，虹彩银线、冷光珠串装饰。立领造型，扇羽肩披，肩部层叠孔雀翎金属片，银线勾勒孔雀眼纹样。内搭收腰长裙，外披轻纱翼袖，袖身月曲线条、珠链垂饰。宝石中心腰封，羽形金属、流苏链饰垂落。多层三角形花片与翎羽裙摆，巨型半圆形拖尾，布满孔雀眼刺绣。重工提花、珠绣、金属织锦，深邃光泽，华丽古风概念服饰",
+    "description": "主色以孔雀绿、宝石蓝与紫罗兰为基调，缀以虹彩银线与冷光珠串，整体华贵灵动。立领塑形结合扇羽肩披，肩缘层叠孔雀翎片，金属银线勾勒几何孔雀眼纹。内搭收腰贴身剪裁，外披轻纱翼袖，袖面以月漪曲线与珠链垂饰营造流光效果。腰封以宝石为中心，羽形金属与流苏链饰垂落，强化中轴线与仪式感。裙摆由多层角形花片与翎羽片层叠而成，配以半圆形巨型拖尾，孔雀眼纹次第绽放。面料选用重工提花、珠绣、金属线与渐变织锦，光泽深邃，尽显神秘尊贵气场。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-39.png",
+    "referenceImageUrls": [],
+    "tags": "国风华服,孔雀主题,重工礼服,古风拖尾长裙,翎羽刺绣"
+  },
+  {
+    "id": "ancient-female-outfit-40",
+    "title": "丹凤朝阳赤金婚嫁礼服",
+    "prompt": "单独国风婚服，丹砂红、深绯红主色调，古金与青玉点缀。立领大袖形制，肩部凤凰云纹金甲片塑形，三层叠搭宽袖。衣身双凤朝阳、石榴花、祥云刺绣，回纹吉结纹样。鎏金镂空凤纹腰封，搭配青玉璧环、流苏挂坠，步摇珠链。马面裙版型，前后幅呼应，外层金绣云火纹大拖尾。重工缎锦纱罗叠加，金线盘绣、贴金工艺，厚重华贵，中式大婚礼服，写实服饰原画",
+    "description": "主色为丹砂红与深绯红，缀以古金与点缀青玉，华贵热烈，寓意吉祥圆满。立领大袖结构，肩部以凤凰云纹盘金甲片塑形，宽袖三层叠搭，层次丰富。纹样以双凤朝阳、石榴花与祥云为主，辅以回纹与吉结，象征百年和美、子孙绵延。腰封为鎏金镂空凤纹，配青玉璧环与流苏挂坠，步摇垂珠与金链环珮点缀。马面裙挺阔有型，前后幅相映成辉，外层金绣云火纹大摆拖尾，气度庄严华美。面料选用重工缎锦与纱绣叠加，金线盘绣、珠绣与贴金工艺，质感厚重，仪式感极强。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-40.png",
+    "referenceImageUrls": [],
+    "tags": "国风婚服,中式嫁衣,凤凰纹样,红色汉服,马面礼服"
+  },
+  {
+    "id": "ancient-female-outfit-41",
+    "title": "紫宸桂月四合云肩马面裙",
+    "prompt": "单独明制古风礼服，帝王紫为主，牙白、古金搭配，翡翠绿点缀。立领对襟长衫，四合云肩，有骨窄袖，金线牡丹团花八宝纹样。云肩衣襟刺绣卷云海水江崖纹，珍珠金线镶边。宽大马面裙，前后分片，刺绣玉兔、海崖浪涛八宝纹样。金凤链翡翠佩腰带，流苏玉坠，拖尾裙摆，裙缘海水纹。缎纹妆花锦面料，内敛光泽，端庄明制汉服道具摄影",
+    "description": "配色以帝王紫为主，牙白与古金为辅，点缀翡翠绿，庄重典雅，华贵大气。上衣为立领对襟长衫，四合云肩，窄袖有骨，金线绣牡丹团花与八宝纹样。云肩与衣襟饰卷云与海水江崖纹，镶缘以珍珠金线滚边，层次分明。马面裙褶门宽大，前后分片，绣桂下玉兔、海崖浪涛与八宝纹，寓意吉祥。束腰配金凤链与翡翠佩，流苏缀玉坠，后摆拖尾，裙缘海水纹收边，层次繁复。面料选用缎纹、妆花缎与金绣锦，质地厚重挺括，光泽内敛，礼制感极强。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-41.png",
+    "referenceImageUrls": [],
+    "tags": "明制礼服,云肩马面裙,紫色汉服,玉兔纹样,传统礼制服饰"
+  },
+  {
+    "id": "ancient-female-outfit-42",
+    "title": "石榴绯彩宝相花鸟大袖衫",
+    "prompt": "单独盛唐古风礼服，石榴红、孔雀蓝、杏金配色，青金石蓝点缀。低交领大袖衫，袖身圆润宽大，外罩短披肩，金线宝相花、流苏璎珞装饰。十二破长裙，织金缎与绣纹罗，缠枝葡萄、宝相花、对鹦鹉刺绣。金累丝镂空宝带腰带，玛瑙碧玉镶嵌，流苏珠坠。裙摆边缘金铃珠串，重磅绣缎透明绡纱叠加，繁复华丽唐风服饰，细腻材质光影",
+    "description": "色调以石榴红、孔雀蓝与杏金为主，点缀青金石蓝，华贵明丽，尽显盛唐气象。上衣为低交领大袖衫，袖形圆润宽大，外罩短披肩，以金线宝相花纹与流苏璎珞装饰。下裙为十二破裙，间以织金缎与绣纹罗，绣缠枝葡萄、宝相花与对鹦鹉纹，层次丰富。腰系金累丝镂空宝带，镶嵌玛瑙与碧玉，缀以流苏珠坠，垂落灵动。裙摆周缘缀金铃与珠串。面料选用重磅绣缎与透明绡纱叠加，金线绣工细腻，纹样饱满立体，整体雍容华美、繁而不乱。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-42.png",
+    "referenceImageUrls": [],
+    "tags": "盛唐礼服,唐风大袖衫,花鸟刺绣,红色古风裙,十二破裙"
+  },
+  {
+    "id": "ancient-female-outfit-43",
+    "title": "霜羽流云鹤氅仙衣",
+    "prompt": "单独仙侠古风长裙，霜白、浅青、银灰为主，墨黑点缀。交领斜襟内搭，外披羽肩鹤氅，肩部多层羽毛片装饰。超大垂袖透明纱料，刺绣白鹤、流云星辰，袖口水晶坠链。高腰腰带镶嵌月光石银饰，长链水晶吊坠。渐变长裙，刺绣冰山、鹤影、风旋纹样，开衩轻纱拖尾。真丝欧根纱提花面料，银线刺绣水晶配饰，清冷空灵，仙侠服饰原画",
+    "description": "配色以霜白、浅青与银灰为主，点缀墨黑，清冷淡雅，宛若寒霜映月。上衣为交领斜襟内搭，外披羽肩鹤氅，肩部多层仿羽片叠缀，轻盈灵动。超大垂袖采用透明纱制，绣白鹤、流云与星辰，袖缘缀水晶坠链，随风清响。高腰束带镶嵌月光石与银饰，垂落长链与晶坠，勾勒仙气腰线。裙摆层叠渐变，绣冰山、鹤影与风旋纹，后接开衩轻纱长拖尾，飘逸出尘。面料以真丝、欧根纱与提花缎为主，辅以银线刺绣与水晶配饰，质感通透。整体氛围清冷空灵，如云中仙鹤，翩然而至，超然物外。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-43.png",
+    "referenceImageUrls": [],
+    "tags": "仙侠长裙,鹤氅,仙鹤古风,清冷仙气,浅蓝汉服"
+  },
+  {
+    "id": "ancient-female-outfit-44",
+    "title": "琥珀鎏金敦煌飞天襦裙",
+    "prompt": "单独唐风古风襦裙，琥珀金、矿石青、朱砂红、暖象牙白配色，金线星光点缀。交领上襦配高腰襦裙，不对称如意云肩，垂长飘带。轻纱刺绣敦煌飞天、流云花卉，十二幅渐变拼接裙身，莲花星象纹样。镂空金饰宽腰带，绿松石珍珠镶嵌，流苏珠链玉璧挂坠。层叠垂坠裙摆，云纹莲瓣刺绣，真丝纱罗织锦，华彩灵动，敦煌国风服饰",
+    "description": "色彩以琥珀金、矿石青、朱砂红与暖象牙白为主，金线点缀璀璨星光。交领上襦配高腰襦裙，肩披不对称如意云肩，垂缨与长飘带随风轻扬。上襦轻纱绣敦煌飞天与流云花纹，裙身十二幅渐变拼接，莲花漫卷，星象璀璨。宽腰封以镂空金饰为主，镶嵌绿松石与珍珠，缀以流苏、珠链与玉璧挂饰。裙摆层叠垂坠，边缘绣云纹与莲瓣纹，材质为真丝、纱罗与织锦，华彩灵动飘动。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-44.png",
+    "referenceImageUrls": [],
+    "tags": "唐风襦裙,敦煌飞天,鎏金古风,西域国风,华丽汉服"
+  },
+  {
+    "id": "ancient-female-outfit-45",
+    "title": "月白竹青烟岚山水褙子",
+    "prompt": "单独宋制古风雅服，月白、竹青、烟岚蓝色调，克制银线点缀。内搭窄袖交领，长款敞襟褙子，外罩烟灰色透纱披帛。衣身刺绣寒梅、远山流水、飞雁山水纹样，留白构图。白玉环扣束带，浅绿流苏银饰坠链。多幅渐变百褶长裙，衣摆拖尾波纹水光刺绣。绫缎纱绣真丝面料，柔和哑光，清雅宋制汉服，国风服饰摄影",
+    "description": "色调以月白、竹青、烟岚蓝为主，点缀克制银线，清冷雅致，宋韵清远。内搭窄袖交领，中间长褙子敞襟，外罩轻盈烟灰色透纱披帛，层次丰富。绣面以寒梅、远山、流水与飞雁为题，构图疏朗留白，意境静远。束带配白玉环扣，垂挂浅绿流苏与银饰坠链，清润温雅，风骨内敛。下裙为多幅渐变百褶，衣缘与拖尾绣波纹水光，行止间瀰瀰渡如烟，气韵悠然。面料选用绫缎、纱、绣缎与真丝，细腻挺括，光泽柔和，整体清雅脱俗。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-45.png",
+    "referenceImageUrls": [],
+    "tags": "宋制雅服,山水褙子,清冷汉服,青白色古风,文人国风"
+  },
+  {
+    "id": "ancient-female-outfit-46",
+    "title": "紫藤星河月神流光仙裙",
+    "prompt": "古风仙侠连衣裙，紫藤花紫、月白、深海蓝渐变配色，交领月牙形衣襟，花瓣云肩，束腰设计，十二幅大裙摆，刺绣紫藤花、弦月星轨、银河流光纹样，多层透明薄纱飘带，点缀珍珠链、水晶坠、微光蝴蝶，布料闪烁星光，服饰立绘，精致细节，光影细腻，超高细节，8k",
+    "description": "色调以紫藤花紫、月白与深海蓝为主，如月辉倾洒星河，清冷浪漫，梦幻缥缈。交领月牙形衣襟，花瓣云肩轻盈立体；束腰收身，勾勒纤雅仙姿，气质出尘。十二幅裙摆如星河流转，绣紫藤垂落、弦月星轨与银河流光，繁而不乱。透明多层袖带如星光旋舞，点缀珍珠链、晶滴与微光蝶影，随风飘逸灵动。腰间玫瑰金星月圆盘坠饰，缀水晶流苏与珠链，光华流转，尽显月神之美。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-46.png",
+    "referenceImageUrls": [],
+    "tags": "古偶仙侠,仙裙,古风女装,星月元素,薄纱,紫色系"
+  },
+  {
+    "id": "ancient-female-outfit-47",
+    "title": "赤狐合卺流霞织金婚服",
+    "prompt": "国风传统婚服，石榴红、珊瑚粉、香槟金配色，立领短袄，如意云肩，广袖大摆马面裙，织金刺绣牡丹、狐狸纹样、合卺结，点缀珍珠、玉环、流苏，缎面与透光流霞纱面料，服饰立绘，华丽精致，8k超清",
+    "description": "色调以石榴红、珊瑚粉与香槟金为主，点缀翡翠绿，喜庆明媚，尽显华贵。立领短袄配如意云肩，宽袖结合彩云狐尾曲线，层次灵动，仪态大气。马面裙绣藏狐影、合卺结、灯影流辉与石榴花，寓意同心合卺、多子多福。珍珠禁步、玉环缀链与流苏穗饰错落其间，摇曳生辉，轻盈灵动。面料采用缎金织锦、珍珠纱与透光流霞纱，质感细腻，浪漫如霞。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-47.png",
+    "referenceImageUrls": [],
+    "tags": "国风婚服,古风嫁衣,红色系,织金刺绣,狐狸元素,马面裙"
+  },
+  {
+    "id": "ancient-female-outfit-48",
+    "title": "鲛缬海月珠光十二幅裙",
+    "prompt": "海洋幻想古风长裙，深海蓝、月白、珍珠粉渐变，交领高腰，贝壳云肩缀珍珠流苏，十二幅渐变大裙摆，刺绣水母、珊瑚、游鱼、月牙、鱼鳞纹样，半透轻纱，珍珠腰饰、海蓝宝吊坠，服饰原画，梦幻清透，高精度细节",
+    "description": "色调以深海蓝、月白与珍珠粉为主，宛若珊瑚海中映月之光，清冷梦幻。交领高腰结构，贝壳弧形云肩点缀珍珠流苏，广袖叠如海浪舒展，轻盈灵动。裙摆为十二幅渐变设计，似鳞光闪烁，随步摇曳，尽显海之秘境的流光溢彩。刺绣水母、珊瑚、游鱼与月影，搭配珍珠链与海蓝宝腰坠，细节精致灵动。整体轻纱半透，飘逸如潮汐，幻化深海中的月光，浪漫而神秘。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-48.png",
+    "referenceImageUrls": [],
+    "tags": "海洋幻想,鲛人服饰,古风仙裙,蓝粉色,轻纱,水母元素"
+  },
+  {
+    "id": "ancient-female-outfit-49",
+    "title": "朔风雁翎鎏银轻甲战袍",
+    "prompt": "古风女将战甲，墨青、玄铁灰、暗红配色，交领战袍，鱼鳞轻甲，雁翎单侧肩甲，外披半透明风袍，衣料刺绣长城、飞雁、风雪纹样，搭配革带、流苏、战靴，裙甲搭配窄裤，服饰立绘，冷峻英气，金属质感",
+    "description": "配色以墨青、玄铁灰与暗红为主，点缀鎏银，冷峻英气，暗藏热血。上衣为贴身交领战袍叠轻量鱼鳞甲，单侧雁翎肩甲，利落干练，便于作战。腰间银扣革带与短流苏装饰，束出柔韧腰线，行战之间，飒沓有声。下装为分片裙甲搭配窄裤，结构轻便，适合驰骋突袭，举止间尽显英姿。外披半透明风袍，绣长城、飞雁与风雪线纹，随风猎猎，气势如山河动荡。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-49.png",
+    "referenceImageUrls": [],
+    "tags": "古风女将,战甲,武侠劲装,黑色系,雁翎,铠甲"
+  },
+  {
+    "id": "ancient-female-outfit-50",
+    "title": "玄鸟衔曜曲裾深衣",
+    "prompt": "汉风礼服曲裾，玄黑、赤褐、古金配色，交领右衽三重绕襟，衣身金线刺绣玄鸟、日轮、云雷纹样，青铜鸟羽肩饰，漆玉腰带、玉佩组绶流苏，广袖大摆长裙，古风服饰原画，古朴庄重，细腻纹理",
+    "description": "玄黑为衣底色，赤褐为缘，古金为绣，交领右衽，曲裾绕行而成自然弧线。三重绕襟层次分明，行步间衣裾流动如云，尽显礼制之美与汉风之雅。衣身绣玄鸟衔日、日轮与云雷纹，寓意光明与祥瑞，纹样以金线疏密有致。肩缀轻量青铜鸟羽饰，漆玉腰封配以组佩垂饰，温润含蓄，庄重有度。整体配色玄黑、赤赭与古金，古朴沉稳，适合重要礼仪与典章场合。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-50.png",
+    "referenceImageUrls": [],
+    "tags": "汉风礼服,曲裾深衣,秦汉古风,玄鸟纹样,黑金配色,传统礼制服饰"
+  },
+  {
+    "id": "ancient-female-outfit-51",
+    "title": "松烟点茶月白褙子",
+    "prompt": "宋制古风雅服，月白、淡茶褐、松石青配色，交领内衫加长褙子，衣身刺绣梅花、山水窗景、涟漪纹样，薄纱披帛，白玉茶花腰扣，流苏珠链，柔和素雅，服饰立绘，国风宋画质感",
+    "description": "色调以月白、淡茶褐与松石青为主，宋韵清雅，克制安宁。窄袖交领内衫叠穿长褙子，衣摆绣山窗茶烟、折枝梅与细雨涟漪，意境静远。薄纱披帛随风轻曳，似烟似雾，增添朦胧美感与层次。白玉茶花腰扣点缀中正，配以流苏与珠链，温润典雅。面料选用轻柔缎绡与细纱，绣工细腻，整体清冷雅致，宋画气息浓郁。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-51.png",
+    "referenceImageUrls": [],
+    "tags": "宋制雅服,褙子,新中式,素雅古风,文人服饰,青白色系"
+  },
+  {
+    "id": "ancient-female-outfit-52",
+    "title": "雪狮流云珊瑚金云肩礼裙",
+    "prompt": "雪域幻想古风礼服，象牙白、藏红、孔雀蓝配色，立领长袍，多层云肩，雪狮鬃毛金属肩饰，衣身刺绣雪山流云纹样，镶嵌珊瑚、绿松石配饰，多层织锦与透明薄纱，服饰原画，庄重华丽",
+    "description": "配色以象牙白、藏红与孔雀蓝为主，点缀哑金与珊瑚、绿松石。立领长袍搭配多层短云肩，肩部为抽象雪狮鬃毛纹金属片，威仪庄严。宽袖绣流云与雪山纹样，袖缘垂珠坠，行间流光溢彩。腰封镶嵌珊瑚与绿松石，足链玉坠与金饰流苏，增添礼制之美。裙摆以厚重织锦叠透明薄纱，层次繁复，纹样含雪山、流云与吉祥回纹。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-52.png",
+    "referenceImageUrls": [],
+    "tags": "雪域幻想,古风礼服,少数民族国风,云肩礼裙,雪山元素,华丽重工"
+  },
+  {
+    "id": "ancient-female-outfit-53",
+    "title": "月蚀蝶母银铃祭裙",
+    "prompt": "苗疆幻想古风长裙，乌蓝、冷银、紫红配色，蝶翼银饰云肩，衣身银线刺绣蝴蝶、星月、藤蔓纹样，不对称层叠裙摆，透明深蓝披帛，搭配银链、铃铛、流苏，黑底服饰立绘，神秘诡魅，暗调光影",
+    "description": "主色为乌蓝与冷银，点缀紫红，营造月夜夜祭的神秘氛围。层叠蝶翼银饰云肩，链坠银铃随风轻响，胸颈以蝴蝶母纹银饰为中心。衣料融入苗疆蜡染元素，星月、藤蔓与蝶纹交织，裙摆不对称层叠，灵动飘逸。透明深蓝披帛覆于双臂，绣银蝶群与星轨纹路，似夜空流动的幻梦。腰间多重银链、铃铛与流苏吊饰，面料混合绸缎、纱与银线刺绣，精致繁复。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-53.png",
+    "referenceImageUrls": [],
+    "tags": "苗疆幻想风,祭裙,暗系古风,蝴蝶元素,银饰铃铛,蓝黑色系"
+  },
+  {
+    "id": "ancient-female-outfit-54",
+    "title": "月华海棠流光云肩马面裙",
+    "prompt": "新中式古风马面裙，月白、胭脂粉、孔雀青渐变，立领短衫，四合如意云肩，四幅渐变马面裙，刺绣海棠花、月牙、祥云、蝴蝶，珍珠禁步、玉石挂坠，多层飘带薄纱，星光质感，服饰原画，温柔仙气",
+    "description": "主色调为月白、胭脂粉与孔雀青，点缀香槟金，清雅温柔，明亮梦幻。立领短衫配四合如意云肩，珠链垂落，轻盈仙气，勾勒纤秀身形。马面裙四幅渐变，层叠薄纱与飘带层层缠绕，步履间流光溢彩，宛若云海。海棠花、月牙、祥云与蝴蝶刺绣，搭配珍珠禁步、玉环与月光石挂坠，精致灵动。真丝缎面、宋锦与透明欧根纱混用，垂坠顺滑，轻透飘逸，视觉层次丰富。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-54.png",
+    "referenceImageUrls": [],
+    "tags": "热门新中式,马面裙,海棠元素,粉青配色,云肩,仙气古风"
+  },
+  {
+    "id": "ancient-female-outfit-55",
+    "title": "墨竹惊鸿银月束袖侠女劲装",
+    "prompt": "侠女古风劲装，深孔雀绿、炭墨、月白配色，斜襟窄袖上衣，不对称云肩，分片长裙搭配束脚裤，衣身银线刺绣竹叶雨纹，透明大披帛，玉带玉环、剑穗流苏，金属护腕，服饰立绘，清冷飒爽",
+    "description": "以墨竹与银月为魂，深孔雀绿、炭墨与月白为主，银线勾勒竹影月痕，清冷飒爽。斜襟窄袖配不对称云肩，利落显身形，竹叶与雨线刺绣，剑光弧纹流转其间。分片裙摆搭配束脚裤，行动自如，飘逸披雨衣如烟似雾，竹影随风凌厉灵动。层叠腰带以玉环为扣，配简剑穗流苏，轻巧护腕点缀，英气而不失精致。真丝提花与绣花纱结合，质感尊贵细腻，侠女气度卓然，冷艳动人。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-55.png",
+    "referenceImageUrls": [],
+    "tags": "侠女风,武侠劲装,竹元素,青绿古风,束袖服饰,仙侠女装"
+  },
+  {
+    "id": "ancient-female-outfit-56",
+    "title": "雨洗山茶天青宋锦褙子",
+    "prompt": "宋韵新中式古风套装，天青、月白、浅粉配色，交领内衫加长款大袖褙子，薄纱外披，衣身刺绣山茶花、飞燕、水纹山石，白玉花扣、珍珠流苏，通透轻纱，服饰原画，清新雅致",
+    "description": "窄袖交领内衫配长褙子，清雅文静，温柔治愈，是当下热门宋韵新中式的代表。色调以天青、月白和浅粉为主，清新明丽，传递雨后初霁般的轻盈与希望。褙子上绣白山茶、雨中燕归、水纹与苔石，寓意纯净、守候与归家的安然。白玉山茶扣与珍珠流苏点缀，细节温润雅致，增添灵动与精致感。整体通透轻盈，层次丰富却不厚重，日常可穿，搭配性强，尽显诗意与亲和力。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-56.png",
+    "referenceImageUrls": [],
+    "tags": "宋韵新中式,褙子套装,山茶纹样,天青色,温柔古风,日常汉服"
+  },
+  {
+    "id": "ancient-female-outfit-57",
+    "title": "月兔桂香云纱马面裙",
+    "prompt": "新中式幻想马面裙，月白、奶黄、桂花金、柔紫、浅碧配色，立领对襟上衣，四合云肩，四幅拼接马面裙，刺绣玉兔、桂花、云月宫阙纹样，多层轻透云纱，珍珠流苏、玉石吊坠，服饰立绘，温柔仙气",
+    "description": "主色调为月白、奶黄与桂花金，点缀柔紫与浅碧，清雅灵动，仙气温柔。立领对襟配四合如意云肩，珍珠流苏与月光玉坠，尽显新中式韵味。马面裙四幅拼接，绣月兔、桂枝与云宫窗景，飘逸云纱叠加，层次丰富。海棠桂花、玉兔与流云点缀，搭配月牙与楼阁纹样，寓意团圆美好。轻透云纱与真丝缎面结合，垂坠顺滑，步摇生辉，温婉不失贵气。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-57.png",
+    "referenceImageUrls": [],
+    "tags": "新中式,马面裙,玉兔桂花,中秋主题,浅色系古风,云肩礼服"
+  },
+  {
+    "id": "ancient-female-outfit-58",
+    "title": "月桂玉兔银辉云肩马面裙",
+    "prompt": "明制幻想古风礼服，月白、桂花金、柔紫、青绿配色，立领交襟短袄，四片如意云肩，重工马面裙，刺绣玉兔、桂花、云海月宫纹样，珍珠步摇、玉石流苏，多层薄纱，服饰原画，清雅华贵",
+    "description": "色调以月白、桂花金、柔紫与青绿为主，清雅华贵，传递中秋团圆的节庆意境。四片如意云肩垂坠珠步，点缀月兔与桂枝，增添灵动与吉祥之感。立领交襟短袄搭配马面裙，裙门绣月宫格窗与云海，层叠间尽显细腻工艺。珍珠金步摇与月光石腰坠流苏摇曳，衣袂轻盈如月华流转。整套刺绣精致繁复，融合桂花、玉兔、云海与宫廷纹样，优雅而富有想象。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-58.png",
+    "referenceImageUrls": [],
+    "tags": "明制幻想,马面裙礼服,玉兔桂花,中秋古风,重工刺绣,云肩"
+  },
+  {
+    "id": "ancient-female-outfit-59",
+    "title": "霜竹听雪青锋剑宗道袍",
+    "prompt": "仙门古风侠男装，墨竹青、霜白、玄灰、冷银配色，交领多层道袍，单侧短披肩，外披雪花竹叶纹透明长纱，金属护臂，玉带玉环、流苏配饰，利落剪裁，服饰立绘，清冷孤高，仙侠道袍",
+    "description": "色调以墨竹青、霜白、玄炭与冷银为主，清冷孤高，剑意凛冽。交领贴身，窄袖利落，单侧短披肩覆于肩部，轻便不束缚。多层衣片前短后长，外披长纱如雪雾，绣霜竹与剑光流弧，动静皆有风骨。袖口竹节护腕，束以玉环简扣，配饰克制，突出剑道与修行气质。整体身形利落矫健，行步如风，尽显青锋剑宗的清修与凌厉。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-59.png",
+    "referenceImageUrls": [],
+    "tags": "仙门侠装,道袍,古风男装,竹雪元素,清冷仙侠,剑宗服饰"
+  },
+  {
+    "id": "ancient-female-outfit-60",
+    "title": "赤狐踏灯绛纱上元祭裙",
+    "prompt": "唐风上元古风长裙，柿红、琥珀金、烟紫配色，高腰齐胸裙，短襦上衣，广袖轻纱，衣身刺绣梅花、祥云、灯影纹样，裙缀迷你灯笼、琥珀珠链、铃铛，狐尾造型纱片，暖光氛围感，服饰立绘，热烈华美",
+    "description": "色调以柿红、琥珀金与烟紫为主，绛纱如灯柔光流转，热烈而华美。高腰齐胸裙搭配短襦上衣，层叠飘逸，尽显唐风华服的节庆盛意。大袖如灯烟舒展，绣以梅花、祥云与灯影，绛纱轻透，随步生辉。裙后层叠狐尾形纱片，似火光流动，缀以琥珀珠链与小铃铛，清脆灵动。梅花、灯笼、火花与祥云图案交织，寓意上元祈福，璀璨祥瑞。",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/ancient-outfits/ancient-female-outfit-60.png",
+    "referenceImageUrls": [],
+    "tags": "上元幻想,唐风礼服,齐胸襦裙,狐狸灯笼元素,红金古风,节日祭裙"
+  }
+]

@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="造剧 AI 漫剧提示词库，浏览、筛选并复制适用于 AI 漫剧创作的提示词。涵盖表情演技、动作招式、术法大招、古风服饰、现代服饰、人物发型、关键道具七大分类。"
+    />
+    <meta name="theme-color" content="#08090c" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="造剧 · AI 漫剧提示词库" />
+    <meta property="og:description" content="浏览、筛选并复制适用于 AI 漫剧创作的提示词，七大分类 300+ 精选提示词。" />
+    <meta property="og:image" content="/favicon.svg" />
+    <meta property="og:locale" content="zh_CN" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="造剧 · AI 漫剧提示词库" />
+    <meta name="twitter:description" content="浏览、筛选并复制适用于 AI 漫剧创作的提示词。" />
+
+    <title>造剧 · AI 漫剧提示词库</title>
+
+    <script>
+      (function () {
+        var stored = localStorage.getItem('theme');
+        var theme = stored || 'dark';
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.style.colorScheme = theme;
+      })();
+    </script>
+
+    <style>
+      .initial-skeleton {
+        max-width: 1480px;
+        margin: 0 auto;
+        padding: 76px 16px 48px;
+      }
+      .initial-skeleton__bar {
+        height: 38px;
+        display: flex;
+        gap: 8px;
+        margin-bottom: 28px;
+        overflow: hidden;
+      }
+      .initial-skeleton__chip {
+        height: 38px;
+        border-radius: 999px;
+        background: rgba(128,128,128,0.12);
+        flex: 0 0 72px;
+      }
+      .initial-skeleton__heading {
+        height: 42px;
+        width: 200px;
+        border-radius: 8px;
+        background: rgba(128,128,128,0.12);
+        margin-bottom: 24px;
+      }
+      .initial-skeleton__grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 18px 10px;
+      }
+      .initial-skeleton__card {
+        display: block;
+      }
+      .initial-skeleton__img {
+        aspect-ratio: 3/4;
+        border-radius: 12px;
+        background: rgba(128,128,128,0.1);
+        margin-bottom: 12px;
+        animation: sk 1.4s ease-in-out infinite;
+      }
+      .initial-skeleton__line {
+        height: 14px;
+        border-radius: 4px;
+        background: rgba(128,128,128,0.12);
+        margin-bottom: 6px;
+        animation: sk 1.4s ease-in-out infinite;
+      }
+      .initial-skeleton__line--short { width: 60%; }
+      .prerender-page { max-width: 720px; margin: 0 auto; padding: 48px 24px; font-family: Inter, system-ui, sans-serif; }
+      .prerender-breadcrumb { font-size: 13px; color: #8b8d96; margin-bottom: 24px; }
+      .prerender-breadcrumb a { color: #4dd4c4; text-decoration: none; }
+      .prerender-eyebrow { color: #ff5a3c; font-size: 12px; font-weight: 600; letter-spacing: 0.12em; margin: 0 0 8px; }
+      .prerender-page h1 { font-size: 32px; font-weight: 600; margin: 0 0 16px; line-height: 1.2; }
+      .prerender-desc { color: #d4d4d8; font-size: 15px; line-height: 1.7; margin: 0 0 20px; }
+      .prerender-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 28px; }
+      .prerender-tag { padding: 3px 10px; border: 1px solid rgba(77,212,196,0.35); border-radius: 999px; color: #9ed8d0; font-size: 12px; }
+      .prerender-copy p { color: #e8b95c; font-size: 12px; margin: 0 0 8px; }
+      .prerender-copy pre { padding: 18px; border-left: 3px solid #ff5a3c; border-radius: 8px; background: #0a0b0e; color: #d7d5ce; font-size: 14px; line-height: 1.75; white-space: pre-wrap; word-break: break-word; overflow: auto; }
+      :root[data-theme="light"] .prerender-breadcrumb { color: #6b6d76; }
+      :root[data-theme="light"] .prerender-eyebrow { color: #d83a22; }
+      :root[data-theme="light"] .prerender-page h1 { color: #1a1a1e; }
+      :root[data-theme="light"] .prerender-desc { color: #3c3c42; }
+      :root[data-theme="light"] .prerender-tag { border-color: rgba(21,152,134,0.3); color: #159886; }
+      :root[data-theme="light"] .prerender-copy p { color: #a87826; }
+      :root[data-theme="light"] .prerender-copy pre { background: #f5f4f0; color: #2a2a2e; }
+      @keyframes sk {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 0.15; }
+      }
+      @media (min-width: 768px) {
+        .initial-skeleton__grid { grid-template-columns: repeat(3, 1fr); }
+      }
+      @media (min-width: 1100px) {
+        .initial-skeleton__grid { grid-template-columns: repeat(4, 1fr); }
+      }
+      @media (min-width: 1440px) {
+        .initial-skeleton__grid { grid-template-columns: repeat(5, 1fr); }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <div class="initial-skeleton" aria-hidden="true">
+        <div class="initial-skeleton__bar">
+          <div class="initial-skeleton__chip"></div>
+          <div class="initial-skeleton__chip"></div>
+          <div class="initial-skeleton__chip"></div>
+          <div class="initial-skeleton__chip"></div>
+          <div class="initial-skeleton__chip"></div>
+        </div>
+        <div class="initial-skeleton__heading"></div>
+        <div class="initial-skeleton__grid">
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+          <div class="initial-skeleton__card"><div class="initial-skeleton__img"></div><div class="initial-skeleton__line"></div><div class="initial-skeleton__line initial-skeleton__line--short"></div></div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

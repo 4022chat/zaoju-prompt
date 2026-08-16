@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output and tool caches
+dist/
+.vite/
+.vitest/
+coverage/
+*.tsbuildinfo
+
+# Test artifacts
+tests/
+batch-scripts/
+/data/
+test-results/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+pnpm-lock.yaml
+
+# agent
+.agent/
+.workbuddy/
+.codex/
+docs/

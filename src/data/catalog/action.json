@@ -1,0 +1,343 @@
+[
+  {
+    "id": "action_001",
+    "title": "极影瞬步突进",
+    "prompt": "【人物】瞬间压低重心后爆发前冲，脚下拖出连续残影，身体略前倾，衣摆与发丝被气流带起，迅速拉近与对手的距离，画面节奏凌厉，具有强烈的国风漫剧动势",
+    "description": "别称：残影贴身、瞬步压近",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_001.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "瞬步",
+      "残影",
+      "极速突进",
+      "贴身压近",
+      "动态模糊",
+      "前冲爆发",
+      "气流拖尾",
+      "突进与近身类"
+    ]
+  },
+  {
+    "id": "action_002",
+    "title": "低身滑步近袭",
+    "prompt": "【人物】以低姿态快速滑步切入，膝部微屈，脚步贴地向前掠过，带起细碎尘屑与地面流线，动作干脆利落，适合表现近身开战前的压迫感",
+    "description": "别称：贴地突进、滑步逼近",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_002.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "低身滑步",
+      "贴地突进",
+      "快速切入",
+      "近身攻击",
+      "压低重心",
+      "利落身法",
+      "突进与近身类"
+    ]
+  },
+  {
+    "id": "action_003",
+    "title": "灵跃贴身快打",
+    "prompt": "【人物】借助轻巧弹跳迅速贴近目标，落点准确，身姿轻盈迅捷，上半身前送，双手已进入出招预备状态，画面带有轻灵与爆发并存的节奏感",
+    "description": "别称：跳步贴脸、轻身突袭",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_003.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "跳步突袭",
+      "贴身快打",
+      "轻盈身法",
+      "快速逼近",
+      "爆发节奏",
+      "漫剧动作感",
+      "突进与近身类"
+    ]
+  },
+  {
+    "id": "action_004",
+    "title": "侧闪绕身换位",
+    "prompt": "【人物】在前冲过程中突然向侧方闪身，完成避让与换位，身体微扭，脚步灵活，带出短促残影，形成攻守转换的视觉张力",
+    "description": "别称：错位闪身、侧移避锋",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_004.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "侧闪",
+      "换位",
+      "错位闪避",
+      "动态残影",
+      "攻守转换",
+      "灵活步法",
+      "突进与近身类"
+    ]
+  },
+  {
+    "id": "action_005",
+    "title": "后撤蓄势反扑",
+    "prompt": "【人物】先向后撤开半步，迅速积蓄力量，重心稳定，目光锁定前方，下一瞬准备再次前压出击，画面充满蓄势待发的紧张感",
+    "description": "别称：退身引招、回撤再攻",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_005.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "后撤",
+      "蓄势",
+      "引招",
+      "重心控制",
+      "反扑",
+      "节奏递进",
+      "突进与近身类"
+    ]
+  },
+  {
+    "id": "action_006",
+    "title": "凌空飞踢压制",
+    "prompt": "【人物】借助起跳冲势凌空踢出一击，双腿在空中舒展发力，身体略有前送，衣袍被气流掀动，动作具有明显的上扬攻击感",
+    "description": "别称：腾空蹬击、跃空制敌",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_006.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "凌空飞踢",
+      "腾空攻击",
+      "跃起制敌",
+      "空中压制",
+      "动态衣摆",
+      "打斗张力",
+      "空中与连击类"
+    ]
+  },
+  {
+    "id": "action_007",
+    "title": "腾空旋身斩击",
+    "prompt": "【人物】腾空翻转身体完成旋身斩击，武器或手臂带出完整弧线，动作连贯凌厉，空中残影与旋转轨迹增强视觉冲击力",
+    "description": "别称：空旋绝杀、翻身断势",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_007.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "腾空旋斩",
+      "翻身攻击",
+      "弧线斩击",
+      "空中连招",
+      "残影轨迹",
+      "凌厉动作",
+      "空中与连击类"
+    ]
+  },
+  {
+    "id": "action_008",
+    "title": "空中滞空连击",
+    "prompt": "【人物】在短暂滞空中连续发出多段攻击，身体控制稳定，四肢展开自然，动作节奏紧密，形成持续压迫的连击观感",
+    "description": "别称：浮空追打、连段压制",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_008.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "滞空",
+      "空中连击",
+      "浮空追打",
+      "节奏紧密",
+      "持续压制",
+      "动作流畅",
+      "空中与连击类"
+    ]
+  },
+  {
+    "id": "action_009",
+    "title": "俯冲下压突袭",
+    "prompt": "【人物】从较高位置俯冲而下，身体前倾明显，攻击方向直指目标，速度感强烈，配合下坠气流与拖尾，画面极具爆发力",
+    "description": "别称：高位俯击、凌空扑杀",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_009.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "俯冲攻击",
+      "高位突袭",
+      "下压打击",
+      "速度感",
+      "气流拖尾",
+      "爆发冲击",
+      "空中与连击类"
+    ]
+  },
+  {
+    "id": "action_010",
+    "title": "落地翻身续攻",
+    "prompt": "【人物】在空中动作结束后稳稳落地，并顺势翻身接续下一段进攻，落点轻稳，动作一气呵成，体现高手打斗的节奏衔接",
+    "description": "别称：着地续招、翻落接打",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_010.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "落地续攻",
+      "翻身接招",
+      "节奏衔接",
+      "轻稳落点",
+      "动作连贯",
+      "高手感",
+      "空中与连击类"
+    ]
+  },
+  {
+    "id": "action_011",
+    "title": "反手格挡卸力",
+    "prompt": "【人物】以反手迅速横挡来袭攻击，身体微侧稳定受力，手臂与肩背形成清晰防守结构，既有硬挡感也包含卸力处理，攻防张力十足",
+    "description": "别称：卸劲格挡、侧身守御",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_011.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "反手格挡",
+      "卸力",
+      "防御姿态",
+      "侧身稳固",
+      "攻防转换",
+      "近身对抗",
+      "防御与反制类"
+    ]
+  },
+  {
+    "id": "action_012",
+    "title": "双臂交叉防御",
+    "prompt": "【人物】双臂交叉护于身前，脚下稳固，身体略收紧蓄力，面对强攻时展现硬抗与抗压姿态，周身可带轻微气流波纹",
+    "description": "别称：硬抗守势、交叉护身",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_012.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "交叉防御",
+      "硬抗守势",
+      "护身动作",
+      "抗压姿态",
+      "稳固站姿",
+      "气流震荡",
+      "防御与反制类"
+    ]
+  },
+  {
+    "id": "action_013",
+    "title": "后仰闪避反打",
+    "prompt": "【人物】上半身快速后仰避开正面攻击，同时一侧手臂已进入反击预备动作，形成一避一攻的连续节奏，视觉上非常利落",
+    "description": "别称：仰身避锋、闪躲回击",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_013.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "后仰闪避",
+      "避锋",
+      "反打",
+      "攻防衔接",
+      "利落身法",
+      "连续动作",
+      "防御与反制类"
+    ]
+  },
+  {
+    "id": "action_014",
+    "title": "侧身拨刃化解",
+    "prompt": "【人物】以侧身姿态拨开来袭兵刃或攻击路线，动作精准克制，手部发力方向明确，身体不慌不乱，体现高手冷静化解的打斗气质",
+    "description": "别称：拨开来势、借力化攻",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_014.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "侧身拨刃",
+      "化解攻击",
+      "借力化攻",
+      "精准动作",
+      "冷静对抗",
+      "高级打戏",
+      "防御与反制类"
+    ]
+  },
+  {
+    "id": "action_015",
+    "title": "退步引招反制",
+    "prompt": "【人物】先行退步拉开半身距离，引导对手攻势落空，再抓住空隙进行反制，节奏层次清晰，既有智慧感又有动作张力",
+    "description": "别称：后撤诱敌、引攻回制",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_015.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "退步",
+      "引招",
+      "诱敌",
+      "反制",
+      "节奏层次",
+      "以退为进",
+      "防御与反制类"
+    ]
+  },
+  {
+    "id": "action_016",
+    "title": "蓄力重拳冲击",
+    "prompt": "【人物】短暂蓄力后挥出重拳，肩背同步发力，拳路笔直凶猛，前冲感强，拳风带起明显气流波纹，画面充满重击压迫感",
+    "description": "别称：爆拳直击、重拳破势",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_016.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "蓄力重拳",
+      "爆发直击",
+      "重击",
+      "拳风",
+      "气流波纹",
+      "前冲压制",
+      "重击与气劲类"
+    ]
+  },
+  {
+    "id": "action_017",
+    "title": "横扫腿击破阵",
+    "prompt": "【人物】身体重心下压，单腿横向高速扫出，扫击范围大，地面尘屑被腿风卷起，动作霸道有力，适合表现范围压制型打斗场面",
+    "description": "别称：贴地横踢、扫腿震场",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_017.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "横扫腿击",
+      "贴地横踢",
+      "范围攻击",
+      "低重心",
+      "尘屑飞扬",
+      "霸道打击",
+      "重击与气劲类"
+    ]
+  },
+  {
+    "id": "action_018",
+    "title": "抬手震气击退",
+    "prompt": "【人物】单掌向前推出，掌心前方爆开一股可视化气浪，周围空气被震开，形成明显击退感，动作简洁却极具压迫力",
+    "description": "别称：掌风震退、气劲外推",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_018.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "掌风",
+      "气劲",
+      "震退",
+      "单掌前推",
+      "冲击波",
+      "范围压制",
+      "重击与气劲类"
+    ]
+  },
+  {
+    "id": "action_019",
+    "title": "霸体冲身破防",
+    "prompt": "【人物】全身绷紧凝聚气势，直接以霸体姿态强行顶进，周身仿佛裹挟厚重气场，无视干扰硬撞破防，画面热血感强",
+    "description": "别称：强势顶进、护体猛冲",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_019.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "霸体",
+      "强势冲身",
+      "破防",
+      "护体气场",
+      "硬撞突进",
+      "热血打斗",
+      "重击与气劲类"
+    ]
+  },
+  {
+    "id": "action_020",
+    "title": "落地震地重击",
+    "prompt": "【人物】自上而下重重坠落并打出重击，地面瞬间出现裂纹与碎石飞散效果，冲击感强烈，适合作为打斗高潮的终结画面",
+    "description": "别称：坠地轰击、裂地一击",
+    "coverUrl": "http://cdn.jsdelivr.net/gh/4022chat/zaoju-prompt@main/public/images/action/action_020.png",
+    "referenceImageUrls": [],
+    "tags": [
+      "落地重击",
+      "地面开裂",
+      "碎石飞散",
+      "终结大招",
+      "冲击爆发",
+      "高燃画面",
+      "重击与气劲类"
+    ]
+  }
+]
