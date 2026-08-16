@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build && node scripts/prerender.mjs",
+    "build": "tsc -b && vite build",
     "test": "vitest run",
     "test:watch": "vitest",
     "check:data": "node batch-scripts/check.js"
@@ -25,6 +25,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "^10.5.4",
+    "cssnano": "^8.0.5",
     "jsdom": "latest",
     "postcss": "^8.5.26",
     "typescript": "latest",
