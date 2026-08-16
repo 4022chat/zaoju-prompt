@@ -2,6 +2,15 @@
 
 面向 AI 漫剧创作的提示词库与角色提示词生成器。项目收录表情演技、动作招式、术法大招、古风服饰、现代服饰、人物发型、关键道具与场景等 8 类共 450+ 条提示词，并提供封面图展示、检索筛选、静态详情页和可组合的人设提示词生成工具。
 
+<p align="center">
+  <a href="https://www.zaoju.vip">演示站点</a> ｜
+  <a href="https://github.com/opennex/zaoju-prompt">项目仓库</a> ｜
+  <a href="./src/data/catalog/">提示词数据</a>
+</p>
+
+![首页截图](./public/images/ScreenShot_home.png)
+
+
 ## 功能
 
 ### 提示词库
