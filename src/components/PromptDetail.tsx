@@ -166,7 +166,7 @@ export function PromptDetail({ prompt, prompts, onClose, onNavigate }: PromptDet
           <div className="detail-actions">
             <button type="button" className="workspace-button" onClick={handleGoToWorkspace} aria-label="前往生图工作台">
               <Sparkles aria-hidden="true" size={18} strokeWidth={1.9} />
-              <span>去生图</span>
+              <span>打开生图工作台</span>
             </button>
           </div>
           <span className="sr-only" aria-live="polite">{copied ? '提示词已复制' : ''}</span>

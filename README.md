@@ -113,7 +113,7 @@ pnpm run dev
 应用使用以下可选变量：
 
 ```bash
-# 详情弹窗和生成器的“去生图工作台”链接
+# 详情弹窗和生成器的“打开生图工作台”链接
 VITE_IMAGE_WORKSPACE_URL=https://img.opennex.top
 
 # 构建时用于 sitemap 的完整站点地址

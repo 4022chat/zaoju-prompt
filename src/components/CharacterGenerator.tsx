@@ -610,7 +610,7 @@ export function CharacterGenerator() {
               target="_blank"
               rel="noreferrer"
             >
-              去生图工作台
+              打开生图工作台
             </a>
           </div>
 
